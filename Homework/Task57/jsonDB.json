@@ -1,0 +1,105 @@
+{"name":"Эрнэст","city":"Набережные Челны","year":2004,"mainInterest":"Еда","bio":"Безумно можно быть былом","favColor":"Розовый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Лера","city":"Казань","year":2003,"mainInterest":"чаёк","bio":"I like dogs","favColor":"Фиолетовый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Рита","city":"Оренбург","year":2004,"mainInterest":"music","bio":"Волк-не тот, кто волк, а тот, кто волк.","favColor":"Черный","pet":"TRUE","futureProf":"programmer"}
+{"name":"Айдар","city":"Казань","year":2001,"mainInterest":"Программирование","bio":"ДА","favColor":"Черный","pet":"FALSE","futureProf":"programmer"}
+{"name":"Ярослав","city":"Зеленодольск","year":2004,"mainInterest":"Программирование","bio":"Что за лев этот тигр!","favColor":"Жёлтый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Расим","city":"Нижнекамск","year":2004,"mainInterest":"Проргаммирование","bio":"Инвестирую в сбер (одобрено) - спасибо","favColor":"Розовый","pet":"FALSE","futureProf":"C++-programmer"}
+{"name":"Эмиль","city":"Зеленодольск","year":2004,"mainInterest":"Проргаммирование","bio":"Что за тигр этот лев!","favColor":"Красный","pet":"FALSE","futureProf":"programmer"}
+{"name":"Элина","city":"Уфа","year":2004,"mainInterest":"кислые мармеладки","bio":"Жизнь такова, какова она есть, и больше никакова","favColor":"Зеленый","pet":"TRUE","futureProf":"programmer"}
+{"name":"Наргиз","city":"Казань","year":2004,"mainInterest":"Футбол","bio":"no bio yet","favColor":"Черный","pet":"FALSE","futureProf":"помощник депутата"}
+{"name":"Егор","city":"Пенза","year":2004,"mainInterest":"Сон","bio":"Друзья, уверяю вас, мне можно доверить огнестрельное оружие.","favColor":"#c800f0","pet":"TRUE","futureProf":"Certifed racist"}
+{"name":"Нияз","city":"Нижнекамск","year":2004,"mainInterest":"Программирование","bio":"Продам гараж","favColor":"Деньги","pet":"FALSE","futureProf":"programmer"}
+{"name":"Алина","city":"Казань","year":2004,"mainInterest":"музыка","bio":"Я прошла Афганскую войну и всем мужчинам советую","favColor":"хаки","pet":"TRUE","futureProf":"programmer"}
+{"name":"АНастя","city":"Нефтекамск","year":2004,"mainInterest":"еда","bio":"будущий хороший фиолетовый человек","favColor":"Фиолетовый","pet":"TRUE","futureProf":"хороший человек"}
+{"name":"Даниил","city":"Казань","year":2004,"mainInterest":"саморазвитие","bio":"-","favColor":"Зелёный","pet":"FALSE","futureProf":"депутат"}
+{"name":"Артур","city":"Нижнекамск","year":2003,"mainInterest":"кушать","bio":"я ы у ыыыыыыыыыыыы :)))","favColor":"Зеленый","pet":"FALSE","futureProf":"backend-developer"}
+{"name":"Олег","city":"Казань","year":2004,"mainInterest":"поездки в универ","bio":"Улыбайся чаще, и шизофрения улыбнется тебе","favColor":"Желтый","pet":"TRUE","futureProf":"Java-programmer"}
+{"name":"Николай","city":"Казань","year":2004,"mainInterest":"Видеоигры","bio":"Не 23 года, не дизайнер и не из Санкт-Петербурга.","favColor":"Синий","pet":"TRUE","futureProf":"геймдизайнер"}
+{"name":"Владимир","city":"Казань","year":2004,"mainInterest":"Женщины","bio":"Easy come, easy go","favColor":"Бедра нимфы","pet":"TRUE","futureProf":"senior pomidor 300kk/ns"}
+{"name":"Данил","city":"Казань","year":2004,"mainInterest":"машины","bio":"куплю слона","favColor":"бордовый","pet":"TRUE","futureProf":"f1 driver"}
+{"name":"Айбулат","city":"Казань","year":2004,"mainInterest":"Дофамин","bio":"Ночь, улица, фонарь, аптека","favColor":"Белый?","pet":"TRUE","futureProf":"Anteiku"}
+{"name":"Марсель","city":"Казань","year":2004,"mainInterest":"programming","bio":"100 years have been living in Italy; liked it","favColor":"#76EEC6","pet":"TRUE","futureProf":"programmer"}
+{"name":"Эрнэст","city":"Набережные Челны","year":2004,"mainInterest":"Еда","bio":"Безумно можно быть былом","favColor":"Розовый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Лера","city":"Казань","year":2003,"mainInterest":"чаёк","bio":"I like dogs","favColor":"Фиолетовый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Рита","city":"Оренбург","year":2004,"mainInterest":"music","bio":"Волк-не тот, кто волк, а тот, кто волк.","favColor":"Черный","pet":"TRUE","futureProf":"programmer"}
+{"name":"Айдар","city":"Казань","year":2001,"mainInterest":"Программирование","bio":"ДА","favColor":"Черный","pet":"FALSE","futureProf":"programmer"}
+{"name":"Ярослав","city":"Зеленодольск","year":2004,"mainInterest":"Программирование","bio":"Что за лев этот тигр!","favColor":"Жёлтый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Расим","city":"Нижнекамск","year":2004,"mainInterest":"Проргаммирование","bio":"Инвестирую в сбер (одобрено) - спасибо","favColor":"Розовый","pet":"FALSE","futureProf":"C++-programmer"}
+{"name":"Эмиль","city":"Зеленодольск","year":2004,"mainInterest":"Проргаммирование","bio":"Что за тигр этот лев!","favColor":"Красный","pet":"FALSE","futureProf":"programmer"}
+{"name":"Элина","city":"Уфа","year":2004,"mainInterest":"кислые мармеладки","bio":"Жизнь такова, какова она есть, и больше никакова","favColor":"Зеленый","pet":"TRUE","futureProf":"programmer"}
+{"name":"Наргиз","city":"Казань","year":2004,"mainInterest":"Футбол","bio":"no bio yet","favColor":"Черный","pet":"FALSE","futureProf":"помощник депутата"}
+{"name":"Егор","city":"Пенза","year":2004,"mainInterest":"Сон","bio":"Друзья, уверяю вас, мне можно доверить огнестрельное оружие.","favColor":"#c800f0","pet":"TRUE","futureProf":"Certifed racist"}
+{"name":"Нияз","city":"Нижнекамск","year":2004,"mainInterest":"Программирование","bio":"Продам гараж","favColor":"Деньги","pet":"FALSE","futureProf":"programmer"}
+{"name":"Алина","city":"Казань","year":2004,"mainInterest":"музыка","bio":"Я прошла Афганскую войну и всем мужчинам советую","favColor":"хаки","pet":"TRUE","futureProf":"programmer"}
+{"name":"АНастя","city":"Нефтекамск","year":2004,"mainInterest":"еда","bio":"будущий хороший фиолетовый человек","favColor":"Фиолетовый","pet":"TRUE","futureProf":"хороший человек"}
+{"name":"Даниил","city":"Казань","year":2004,"mainInterest":"саморазвитие","bio":"-","favColor":"Зелёный","pet":"FALSE","futureProf":"депутат"}
+{"name":"Артур","city":"Нижнекамск","year":2003,"mainInterest":"кушать","bio":"я ы у ыыыыыыыыыыыы :)))","favColor":"Зеленый","pet":"FALSE","futureProf":"backend-developer"}
+{"name":"Олег","city":"Казань","year":2004,"mainInterest":"поездки в универ","bio":"Улыбайся чаще, и шизофрения улыбнется тебе","favColor":"Желтый","pet":"TRUE","futureProf":"Java-programmer"}
+{"name":"Николай","city":"Казань","year":2004,"mainInterest":"Видеоигры","bio":"Не 23 года, не дизайнер и не из Санкт-Петербурга.","favColor":"Синий","pet":"TRUE","futureProf":"геймдизайнер"}
+{"name":"Владимир","city":"Казань","year":2004,"mainInterest":"Женщины","bio":"Easy come, easy go","favColor":"Бедра нимфы","pet":"TRUE","futureProf":"senior pomidor 300kk/ns"}
+{"name":"Данил","city":"Казань","year":2004,"mainInterest":"машины","bio":"куплю слона","favColor":"бордовый","pet":"TRUE","futureProf":"f1 driver"}
+{"name":"Айбулат","city":"Казань","year":2004,"mainInterest":"Дофамин","bio":"Ночь, улица, фонарь, аптека","favColor":"Белый?","pet":"TRUE","futureProf":"Anteiku"}
+{"name":"Марсель","city":"Казань","year":2004,"mainInterest":"programming","bio":"100 years have been living in Italy; liked it","favColor":"#76EEC6","pet":"TRUE","futureProf":"programmer"}
+{"name":"Эрнэст","city":"Набережные Челны","year":2004,"mainInterest":"Еда","bio":"Безумно можно быть былом","favColor":"Розовый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Лера","city":"Казань","year":2003,"mainInterest":"чаёк","bio":"I like dogs","favColor":"Фиолетовый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Рита","city":"Оренбург","year":2004,"mainInterest":"music","bio":"Волк-не тот, кто волк, а тот, кто волк.","favColor":"Черный","pet":"TRUE","futureProf":"programmer"}
+{"name":"Айдар","city":"Казань","year":2001,"mainInterest":"Программирование","bio":"ДА","favColor":"Черный","pet":"FALSE","futureProf":"programmer"}
+{"name":"Ярослав","city":"Зеленодольск","year":2004,"mainInterest":"Программирование","bio":"Что за лев этот тигр!","favColor":"Жёлтый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Расим","city":"Нижнекамск","year":2004,"mainInterest":"Проргаммирование","bio":"Инвестирую в сбер (одобрено) - спасибо","favColor":"Розовый","pet":"FALSE","futureProf":"C++-programmer"}
+{"name":"Эмиль","city":"Зеленодольск","year":2004,"mainInterest":"Проргаммирование","bio":"Что за тигр этот лев!","favColor":"Красный","pet":"FALSE","futureProf":"programmer"}
+{"name":"Элина","city":"Уфа","year":2004,"mainInterest":"кислые мармеладки","bio":"Жизнь такова, какова она есть, и больше никакова","favColor":"Зеленый","pet":"TRUE","futureProf":"programmer"}
+{"name":"Наргиз","city":"Казань","year":2004,"mainInterest":"Футбол","bio":"no bio yet","favColor":"Черный","pet":"FALSE","futureProf":"помощник депутата"}
+{"name":"Егор","city":"Пенза","year":2004,"mainInterest":"Сон","bio":"Друзья, уверяю вас, мне можно доверить огнестрельное оружие.","favColor":"#c800f0","pet":"TRUE","futureProf":"Certifed racist"}
+{"name":"Нияз","city":"Нижнекамск","year":2004,"mainInterest":"Программирование","bio":"Продам гараж","favColor":"Деньги","pet":"FALSE","futureProf":"programmer"}
+{"name":"Алина","city":"Казань","year":2004,"mainInterest":"музыка","bio":"Я прошла Афганскую войну и всем мужчинам советую","favColor":"хаки","pet":"TRUE","futureProf":"programmer"}
+{"name":"АНастя","city":"Нефтекамск","year":2004,"mainInterest":"еда","bio":"будущий хороший фиолетовый человек","favColor":"Фиолетовый","pet":"TRUE","futureProf":"хороший человек"}
+{"name":"Даниил","city":"Казань","year":2004,"mainInterest":"саморазвитие","bio":"-","favColor":"Зелёный","pet":"FALSE","futureProf":"депутат"}
+{"name":"Артур","city":"Нижнекамск","year":2003,"mainInterest":"кушать","bio":"я ы у ыыыыыыыыыыыы :)))","favColor":"Зеленый","pet":"FALSE","futureProf":"backend-developer"}
+{"name":"Олег","city":"Казань","year":2004,"mainInterest":"поездки в универ","bio":"Улыбайся чаще, и шизофрения улыбнется тебе","favColor":"Желтый","pet":"TRUE","futureProf":"Java-programmer"}
+{"name":"Николай","city":"Казань","year":2004,"mainInterest":"Видеоигры","bio":"Не 23 года, не дизайнер и не из Санкт-Петербурга.","favColor":"Синий","pet":"TRUE","futureProf":"геймдизайнер"}
+{"name":"Владимир","city":"Казань","year":2004,"mainInterest":"Женщины","bio":"Easy come, easy go","favColor":"Бедра нимфы","pet":"TRUE","futureProf":"senior pomidor 300kk/ns"}
+{"name":"Данил","city":"Казань","year":2004,"mainInterest":"машины","bio":"куплю слона","favColor":"бордовый","pet":"TRUE","futureProf":"f1 driver"}
+{"name":"Айбулат","city":"Казань","year":2004,"mainInterest":"Дофамин","bio":"Ночь, улица, фонарь, аптека","favColor":"Белый?","pet":"TRUE","futureProf":"Anteiku"}
+{"name":"Марсель","city":"Казань","year":2004,"mainInterest":"programming","bio":"100 years have been living in Italy; liked it","favColor":"#76EEC6","pet":"TRUE","futureProf":"programmer"}
+{"name":"Эрнэст","city":"Набережные Челны","year":2004,"mainInterest":"Еда","bio":"Безумно можно быть былом","favColor":"Розовый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Лера","city":"Казань","year":2003,"mainInterest":"чаёк","bio":"I like dogs","favColor":"Фиолетовый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Рита","city":"Оренбург","year":2004,"mainInterest":"music","bio":"Волк-не тот, кто волк, а тот, кто волк.","favColor":"Черный","pet":"TRUE","futureProf":"programmer"}
+{"name":"Айдар","city":"Казань","year":2001,"mainInterest":"Программирование","bio":"ДА","favColor":"Черный","pet":"FALSE","futureProf":"programmer"}
+{"name":"Ярослав","city":"Зеленодольск","year":2004,"mainInterest":"Программирование","bio":"Что за лев этот тигр!","favColor":"Жёлтый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Расим","city":"Нижнекамск","year":2004,"mainInterest":"Проргаммирование","bio":"Инвестирую в сбер (одобрено) - спасибо","favColor":"Розовый","pet":"FALSE","futureProf":"C++-programmer"}
+{"name":"Эмиль","city":"Зеленодольск","year":2004,"mainInterest":"Проргаммирование","bio":"Что за тигр этот лев!","favColor":"Красный","pet":"FALSE","futureProf":"programmer"}
+{"name":"Элина","city":"Уфа","year":2004,"mainInterest":"кислые мармеладки","bio":"Жизнь такова, какова она есть, и больше никакова","favColor":"Зеленый","pet":"TRUE","futureProf":"programmer"}
+{"name":"Наргиз","city":"Казань","year":2004,"mainInterest":"Футбол","bio":"no bio yet","favColor":"Черный","pet":"FALSE","futureProf":"помощник депутата"}
+{"name":"Егор","city":"Пенза","year":2004,"mainInterest":"Сон","bio":"Друзья, уверяю вас, мне можно доверить огнестрельное оружие.","favColor":"#c800f0","pet":"TRUE","futureProf":"Certifed racist"}
+{"name":"Нияз","city":"Нижнекамск","year":2004,"mainInterest":"Программирование","bio":"Продам гараж","favColor":"Деньги","pet":"FALSE","futureProf":"programmer"}
+{"name":"Алина","city":"Казань","year":2004,"mainInterest":"музыка","bio":"Я прошла Афганскую войну и всем мужчинам советую","favColor":"хаки","pet":"TRUE","futureProf":"programmer"}
+{"name":"АНастя","city":"Нефтекамск","year":2004,"mainInterest":"еда","bio":"будущий хороший фиолетовый человек","favColor":"Фиолетовый","pet":"TRUE","futureProf":"хороший человек"}
+{"name":"Даниил","city":"Казань","year":2004,"mainInterest":"саморазвитие","bio":"-","favColor":"Зелёный","pet":"FALSE","futureProf":"депутат"}
+{"name":"Артур","city":"Нижнекамск","year":2003,"mainInterest":"кушать","bio":"я ы у ыыыыыыыыыыыы :)))","favColor":"Зеленый","pet":"FALSE","futureProf":"backend-developer"}
+{"name":"Олег","city":"Казань","year":2004,"mainInterest":"поездки в универ","bio":"Улыбайся чаще, и шизофрения улыбнется тебе","favColor":"Желтый","pet":"TRUE","futureProf":"Java-programmer"}
+{"name":"Николай","city":"Казань","year":2004,"mainInterest":"Видеоигры","bio":"Не 23 года, не дизайнер и не из Санкт-Петербурга.","favColor":"Синий","pet":"TRUE","futureProf":"геймдизайнер"}
+{"name":"Владимир","city":"Казань","year":2004,"mainInterest":"Женщины","bio":"Easy come, easy go","favColor":"Бедра нимфы","pet":"TRUE","futureProf":"senior pomidor 300kk/ns"}
+{"name":"Данил","city":"Казань","year":2004,"mainInterest":"машины","bio":"куплю слона","favColor":"бордовый","pet":"TRUE","futureProf":"f1 driver"}
+{"name":"Айбулат","city":"Казань","year":2004,"mainInterest":"Дофамин","bio":"Ночь, улица, фонарь, аптека","favColor":"Белый?","pet":"TRUE","futureProf":"Anteiku"}
+{"name":"Марсель","city":"Казань","year":2004,"mainInterest":"programming","bio":"100 years have been living in Italy; liked it","favColor":"#76EEC6","pet":"TRUE","futureProf":"programmer"}
+{"name":"Эрнэст","city":"Набережные Челны","year":2004,"mainInterest":"Еда","bio":"Безумно можно быть былом","favColor":"Розовый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Лера","city":"Казань","year":2003,"mainInterest":"чаёк","bio":"I like dogs","favColor":"Фиолетовый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Рита","city":"Оренбург","year":2004,"mainInterest":"music","bio":"Волк-не тот, кто волк, а тот, кто волк.","favColor":"Черный","pet":"TRUE","futureProf":"programmer"}
+{"name":"Айдар","city":"Казань","year":2001,"mainInterest":"Программирование","bio":"ДА","favColor":"Черный","pet":"FALSE","futureProf":"programmer"}
+{"name":"Ярослав","city":"Зеленодольск","year":2004,"mainInterest":"Программирование","bio":"Что за лев этот тигр!","favColor":"Жёлтый","pet":"FALSE","futureProf":"programmer"}
+{"name":"Расим","city":"Нижнекамск","year":2004,"mainInterest":"Проргаммирование","bio":"Инвестирую в сбер (одобрено) - спасибо","favColor":"Розовый","pet":"FALSE","futureProf":"C++-programmer"}
+{"name":"Эмиль","city":"Зеленодольск","year":2004,"mainInterest":"Проргаммирование","bio":"Что за тигр этот лев!","favColor":"Красный","pet":"FALSE","futureProf":"programmer"}
+{"name":"Элина","city":"Уфа","year":2004,"mainInterest":"кислые мармеладки","bio":"Жизнь такова, какова она есть, и больше никакова","favColor":"Зеленый","pet":"TRUE","futureProf":"programmer"}
+{"name":"Наргиз","city":"Казань","year":2004,"mainInterest":"Футбол","bio":"no bio yet","favColor":"Черный","pet":"FALSE","futureProf":"помощник депутата"}
+{"name":"Егор","city":"Пенза","year":2004,"mainInterest":"Сон","bio":"Друзья, уверяю вас, мне можно доверить огнестрельное оружие.","favColor":"#c800f0","pet":"TRUE","futureProf":"Certifed racist"}
+{"name":"Нияз","city":"Нижнекамск","year":2004,"mainInterest":"Программирование","bio":"Продам гараж","favColor":"Деньги","pet":"FALSE","futureProf":"programmer"}
+{"name":"Алина","city":"Казань","year":2004,"mainInterest":"музыка","bio":"Я прошла Афганскую войну и всем мужчинам советую","favColor":"хаки","pet":"TRUE","futureProf":"programmer"}
+{"name":"АНастя","city":"Нефтекамск","year":2004,"mainInterest":"еда","bio":"будущий хороший фиолетовый человек","favColor":"Фиолетовый","pet":"TRUE","futureProf":"хороший человек"}
+{"name":"Даниил","city":"Казань","year":2004,"mainInterest":"саморазвитие","bio":"-","favColor":"Зелёный","pet":"FALSE","futureProf":"депутат"}
+{"name":"Артур","city":"Нижнекамск","year":2003,"mainInterest":"кушать","bio":"я ы у ыыыыыыыыыыыы :)))","favColor":"Зеленый","pet":"FALSE","futureProf":"backend-developer"}
+{"name":"Олег","city":"Казань","year":2004,"mainInterest":"поездки в универ","bio":"Улыбайся чаще, и шизофрения улыбнется тебе","favColor":"Желтый","pet":"TRUE","futureProf":"Java-programmer"}
+{"name":"Николай","city":"Казань","year":2004,"mainInterest":"Видеоигры","bio":"Не 23 года, не дизайнер и не из Санкт-Петербурга.","favColor":"Синий","pet":"TRUE","futureProf":"геймдизайнер"}
+{"name":"Владимир","city":"Казань","year":2004,"mainInterest":"Женщины","bio":"Easy come, easy go","favColor":"Бедра нимфы","pet":"TRUE","futureProf":"senior pomidor 300kk/ns"}
+{"name":"Данил","city":"Казань","year":2004,"mainInterest":"машины","bio":"куплю слона","favColor":"бордовый","pet":"TRUE","futureProf":"f1 driver"}
+{"name":"Айбулат","city":"Казань","year":2004,"mainInterest":"Дофамин","bio":"Ночь, улица, фонарь, аптека","favColor":"Белый?","pet":"TRUE","futureProf":"Anteiku"}
+{"name":"Марсель","city":"Казань","year":2004,"mainInterest":"programming","bio":"100 years have been living in Italy; liked it","favColor":"#76EEC6","pet":"TRUE","futureProf":"programmer"}
